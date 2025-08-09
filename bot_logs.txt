@@ -1,0 +1,4 @@
+Telegram bot started and listening for messages...
+Bot is ready to receive messages!
+Received message from -4833606112: Телефон номер: 07093411400709341140
+2104УНИВЕРСАЛ САТЫЛАТ 2010 Ж МАТОР КАРОПКА ЖАКШЫ ИНЖЕКТИР ЧИРИК ЖООК ТОЛЬКА АЙДАШ КЕРЕК БААСЫ КЕЛИШИМ
